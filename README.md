@@ -1,5 +1,11 @@
 # Harry Potter Kata
 
+For an example of a solution that I think is pretty nice, built under the
+constraints of Object Calisthenics, see the code in attempt-2-java.
+
+For an example of what you're likely to come up with on your first try, see the
+code in attempt-1-kotlin, which was built with no constraints.
+
 ## Instructions
 
 Taken from: https://github.com/xurxodev/HarryPotter-Kata
